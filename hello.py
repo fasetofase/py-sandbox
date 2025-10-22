@@ -1,2 +1,4 @@
-x = "hello world"
-print(x)
+x = 2
+while x < 100000:
+    print(x)
+    x **= 2
